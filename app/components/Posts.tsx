@@ -17,8 +17,7 @@ export default function Posts() {
     const [posts, setPosts] = useState<Post[]>([]);
     const [page, setPage] = useState(1);
     const [perPage, setPerPage] = useState(10);
-    const [sort, setSort] = useState('latest');
-    const [pagination, setPagination] = useState(1);
+    const [sort, setSortOrder] = useState('latest');    
 
     const getPosts = async () => {
         const response = await fetch('/dummydata/data.json');
@@ -26,18 +25,28 @@ export default function Posts() {
         setPosts(data);
     }
 
-    const handleSort = (e : any) => {
-        setSort(e.target.value);
-        console.log(sort);
-    }
-
     const handlePerPage = (e: React.ChangeEvent<HTMLSelectElement>) => {
         setPerPage(Number(e.target.value));
-        console.log(perPage);
     };
 
     const handlePageChange = (newPage: number) => {
         setPage(newPage);
+    };
+
+    const sortPosts = (postsArray : any, order : any) => {
+        return postsArray.sort((a : any, b : any) => {
+            const dateA : any = new Date(a.tanggal);
+            const dateB : any = new Date(b.tanggal);
+
+            return order === 'latest' ? dateB - dateA : dateA - dateB;
+        });
+    };
+
+    const handleSortChange = (e : any) => {
+        const newSortOrder = e.target.value;
+        setSortOrder(newSortOrder);
+        const sortedPosts = sortPosts([...posts], newSortOrder);
+        setPosts(sortedPosts);
     };
 
     const getVisiblePages = () => {
@@ -54,14 +63,13 @@ export default function Posts() {
 
     useEffect(() => {
         getPosts();
-        console.log(perPage);
-    }, [perPage, sort]);
+    }, []);
 
     const totalPages = Math.ceil(posts.length / perPage);
 
     const startIndex = (page - 1) * perPage;
     const endIndex = startIndex + perPage;
-    const currentPosts = posts.slice(startIndex, endIndex);
+    const currentPosts = posts.slice((page - 1) * perPage, page * perPage);
     const visiblePages = getVisiblePages();
 
     
@@ -78,7 +86,7 @@ export default function Posts() {
                 <div className="flex">
                     <div className="flex">
                         <p className="px-2 py-1">Show per page</p>
-                        <select onChange={handlePerPage} className="px-2 py-1 border-2 rounded-full">
+                        <select value={perPage} onChange={handlePerPage} className="px-2 py-1 border-2 rounded-full">
                             <option>10</option>
                             <option>20</option>
                             <option>50</option>
@@ -86,9 +94,9 @@ export default function Posts() {
                     </div>
                     <div className="flex">
                         <p className="px-2 py-1">Sort by</p>
-                        <select onChange={handleSort} className="px-2 py-1 border-2 rounded-full">
-                            <option>Latest</option>
-                            <option>Oldest</option>
+                        <select value={sort} onChange={handleSortChange} className="px-2 py-1 border-2 rounded-full">
+                            <option>latest</option>
+                            <option>oldest</option>
                         </select>
                     </div>
                 </div>
@@ -108,7 +116,7 @@ export default function Posts() {
             </div>
 
             {/* PAGINATION */}
-            <div className="flex justify-center mt-10">
+            <div className="flex justify-center mt-20">
                     <button
                         onClick={() => handlePageChange(1)}
                         className="p-2 rounded-l-lg"
