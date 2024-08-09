@@ -1,0 +1,423 @@
+[
+        {
+            "id": 1,
+            "title": "This is a long title for the post so that it can be truncated in the card view and show the full title in the detail view",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 2,
+            "title": "Post 2",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 3,
+            "title": "Post 3",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 4,
+            "title": "Post 4",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 5,
+            "title": "Post 5",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 6,
+            "title": "Post 6",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 7,
+            "title": "Post 7",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 8,
+            "title": "Post 8",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 9,
+            "title": "Post 9",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 10,
+            "title": "Post 10",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "20 September 2022"
+        },
+        {
+            "id": 11,
+            "title": "Post 11",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "12 September 2022"
+        },
+        {
+            "id": 12,
+            "title": "Post 12",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 13,
+            "title": "Post 13",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "30 September 2022"
+        },
+        {
+            "id": 14,
+            "title": "Post 14",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 15,
+            "title": "Post 15",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 16,
+            "title": "Post 16",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 17,
+            "title": "Post 17",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 18,
+            "title": "Post 18",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 19,
+            "title": "Post 19",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 20,
+            "title": "Post 20",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 21,
+            "title": "Post 21",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 22,
+            "title": "Post 22",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 23,
+            "title": "Post 23",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 24,
+            "title": "Post 24",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 25,
+            "title": "Post 25",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 26,
+            "title": "Post 26",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 27,
+            "title": "Post 27",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 28,
+            "title": "Post 28",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 29,
+            "title": "Post 29",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 30,
+            "title": "Post 30",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 31,
+            "title": "Post 31",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 32,
+            "title": "Post 32",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 33,
+            "title": "Post 33",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 34,
+            "title": "Post 34",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 35,
+            "title": "Post 35",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 36,
+            "title": "Post 36",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 37,
+            "title": "Post 37",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 38,
+            "title": "Post 38",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 39,
+            "title": "Post 39",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 40,
+            "title": "Post 40",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 41,
+            "title": "Post 41",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 42,
+            "title": "Post 42",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 43,
+            "title": "Post 43",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 44,
+            "title": "Post 44",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 45,
+            "title": "Post 45",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 46,
+            "title": "Post 46",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 47,
+            "title": "Post 47",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 48,
+            "title": "Post 48",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 49,
+            "title": "Post 49",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 50,
+            "title": "Post 50",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 51,
+            "title": "Post 51",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 52,
+            "title": "Post 52",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 53,
+            "title": "Post 53",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 54,
+            "title": "Post 54",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 55,
+            "title": "Post 55",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 56,
+            "title": "Post 56",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 57,
+            "title": "Post 57",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 58,
+            "title": "Post 58",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 59,
+            "title": "Post 59",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        },
+        {
+            "id": 60,
+            "title": "Post 60",
+            "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+            "image": "https://via.placeholder.com/150",
+            "tanggal" : "5 September 2022"
+        }
+
+]
