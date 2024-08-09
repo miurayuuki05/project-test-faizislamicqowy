@@ -4,7 +4,7 @@
             "title": "This is a long title for the post so that it can be truncated in the card view and show the full title in the detail view",
             "content": "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
             "image": "https://via.placeholder.com/150",
-            "tanggal" : "5 September 2022"
+            "tanggal" : "30 September 2022"
         },
         {
             "id": 2,
